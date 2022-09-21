@@ -31,6 +31,6 @@ I'm a Backend developer. Possess widespread and progressive passion in learning 
 <details>
  <summary><h3>👨‍💻 Oussamasf's Coding Journey</h3></summary>
    I started my coding journey as a curious student with a passion to learn everything I could about this computer science world - i was facinated about solving coding problems using algorithms just for passion and fun , but that soon got overshadowed by my desire to excel in machine learning . A desire that landed me a freelance offers in data science and machine learning . However, I had another desire I had been pursuing throughout this time - backend. I eventually ended up reducing hours of freelance, and that has been my focus ever since.
-   Now I'm software engineer "backend" full time job,I have a burning desire to be an expert in backend and later in devOps. And in order to do that, I'll be sp dedicated to learn explore and BUILD and gain experience .
+   Now I'm software engineer "backend" full time job,I have a burning desire to be an expert in backend and later in devOps. And in order to do that, I'll be so dedicated to learn explore BUILD and gain experience .
 
 [linkedin]: https://www.linkedin.com/in/oussama-seffai/
