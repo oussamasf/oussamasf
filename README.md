@@ -9,7 +9,7 @@ Web developer
   In addition to my technical skills, I am a strong communicator and thrive in collaborative environments. I have a track record of success working with cross-functional teams and have the ability to translate technical concepts to non-technical stakeholders. I am excited to continue learning and growing as a backend developer and am always looking for new opportunities to challenge myself and expand my skillset.
 
 * 🌍  I'm based in Algiers
-* 🧠  I'm learning REACT
+* 🧠  I'm learning NEXT.js
 
 ### Skills
 
