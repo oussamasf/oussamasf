@@ -11,6 +11,8 @@ Web developer
 * 🌍  I'm based in Algiers
 * 🧠  I'm learning NEXT.js
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### Skills
 
 
