@@ -9,7 +9,7 @@ Hi there! My name is oussama and I am a backend developer with 3 years of experi
 * 🌍  I'm based in Algiers
 * 🖥️  See my portfolio at [ousf](http://ousf.vercel.app/)
 * ✉️  You can contact me at [ousf.dev@gmail.com](mailto:ousf.dev@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Solidity
 
 ### Skills
 
